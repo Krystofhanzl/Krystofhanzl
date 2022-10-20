@@ -1,5 +1,6 @@
-#About me
+# About me
 
-#Tech Stack
+Developer interested in JS (Angular, NodeJS), HTML, CSS and Sass.
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/3/3c/IMG_logo_%282017%29.svg)
+# Tech Stack
+
