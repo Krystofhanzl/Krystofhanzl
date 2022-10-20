@@ -2,4 +2,4 @@
 
 #Tech Stack
 
-![alt text](https://www.imgacademy.com/themes/custom/imgacademy/images/helpbox-contact.jpgg)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/3/3c/IMG_logo_%282017%29.svg)
